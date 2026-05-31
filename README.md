@@ -58,15 +58,16 @@ This helps identify the cities driving UPI adoption.
 
 3️⃣ Transaction Analysis by Payment Method & Merchant
 Payment Methods
-📞 Phone Number
-🔳 QR Code
-🆔 UPI ID
+- 📞 Phone Number
+- 🔳 QR Code
+- 🆔 UPI ID
+ 
 Merchants
-🛒 Amazon
-🛍️ Flipkart
-🚆 IRCTC
-🍔 Swiggy
-🍕 Zomato
+- 🛒 Amazon
+- 🛍️ Flipkart
+- 🚆 IRCTC
+- 🍔 Swiggy
+- 🍕 Zomato
 
 The chart compares merchant performance across all payment methods.
 
