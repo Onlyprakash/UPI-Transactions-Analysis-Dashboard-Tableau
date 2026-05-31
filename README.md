@@ -15,7 +15,7 @@ Using dynamic filters and interactive visualizations, users can explore transact
 - 💳 Payment Mode
 - 🎯 Transaction Purpose
 
-🎯 Business Objective
+## 🎯 Business Objective
 
 The primary objective of this dashboard is to:
 
@@ -26,7 +26,15 @@ The primary objective of this dashboard is to:
 - Discover customer spending patterns.
 - Support business and marketing decisions through data-driven insights.
 
+ ## 🗺️ Dashboard Components
+ 1️⃣ Number of Transactions by Age Groups
 
+This section categorizes transaction activity into three customer segments.
+
+Age Group	Transactions
+👦 Age Group 1	3,000
+👨 Age Group 2	5,000
+👴 Age Group 3	12,000
 
 
 
