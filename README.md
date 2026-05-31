@@ -1,4 +1,4 @@
-# 💳 UPI Transactions Analysis Dashboard | Tableau <img width="240" height="50" alt="image" src="https://github.com/user-attachments/assets/588bfff9-57d1-4000-a3a0-f0d0082b6afd" />
+# 💳 UPI Transactions Analysis Dashboard | Tableau <img width="200" height="50" alt="image" src="https://github.com/user-attachments/assets/588bfff9-57d1-4000-a3a0-f0d0082b6afd" />
 
 ## 📈 Dashboard Preview
 <img width="1000" height="500" alt="Dashboard Preview" src="https://github.com/user-attachments/assets/686075c3-730e-473f-99c3-8a3e93ed86fb" />
@@ -250,7 +250,7 @@ The chart compares merchant performance across all payment methods.
 | 🔳 QR Code      | Flipkart     | 1,341,868    |
 | 🆔 UPI ID       | IRCTC        | 1,354,633    |
 
-## 🔍 Overall Insights
+# 🔍 Overall Insights
 
 ✅ UPI transactions are heavily concentrated in metro cities.
 
@@ -309,7 +309,7 @@ This project showcases how Tableau can be used to transform raw UPI transaction 
 ## ⭐ Support
 If you found this project useful, feel free to star the repository and connect with me on LinkedIn.
 
-## 👤 AUTHOR :-
+# 👤 AUTHOR :-
 
 Prakash Kumar (Onlyprakash)  <img width="35" height="35" alt="image" src="https://github.com/user-attachments/assets/031ef7b6-e6d7-41f6-a3d7-39c63c25c02a" />  GitHub Profile :-  👉  https://github.com/Onlyprakash
 
