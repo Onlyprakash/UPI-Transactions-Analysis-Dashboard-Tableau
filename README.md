@@ -32,9 +32,9 @@ The primary objective of this dashboard is to:
 This section categorizes transaction activity into three customer segments.
 
 Age Group	Transactions
-👦 Age Group 1	3,000
-👨 Age Group 2	5,000
-👴 Age Group 3	12,000
+👦 Age Group 1 👉 3,000
+👨 Age Group 2	👉 5,000
+👴 Age Group 3	👉 12,000
 
 
 
