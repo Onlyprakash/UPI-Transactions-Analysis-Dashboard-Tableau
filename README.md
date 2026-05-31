@@ -1,4 +1,4 @@
-# 💳 UPI Transactions Analysis Dashboard | Tableau <img width="200" height="50" alt="image" src="https://github.com/user-attachments/assets/588bfff9-57d1-4000-a3a0-f0d0082b6afd" />
+# 💳 UPI Transactions Analysis Dashboard | Tableau <img width="150" height="50" alt="image" src="https://github.com/user-attachments/assets/588bfff9-57d1-4000-a3a0-f0d0082b6afd" />
 
 ## 📈 Dashboard Preview
 <img width="1000" height="500" alt="Dashboard Preview" src="https://github.com/user-attachments/assets/686075c3-730e-473f-99c3-8a3e93ed86fb" />
@@ -293,13 +293,21 @@ Create age-specific marketing campaigns:
 ## 📚 Skills Demonstrated
 
 ✅ Data Cleaning
+
 ✅ Data Visualization
+
 ✅ Tableau Dashboard Development
+
 ✅ Interactive Filtering
+
 ✅ Geographic Analysis
+
 ✅ Merchant Performance Analysis
+
 ✅ Business Intelligence
+
 ✅ KPI Reporting
+
 ✅ Data Storytelling
 
 ## 🚀 Conclusion
