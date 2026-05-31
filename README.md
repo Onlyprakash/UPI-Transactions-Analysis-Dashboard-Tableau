@@ -1,4 +1,4 @@
-<img width="1635" height="853" alt="Age Group 2 Screenshot" src="https://github.com/user-attachments/assets/ba6507f8-0527-4dbe-8229-aa39f5bbfb2f" /># 💳 UPI Transactions Analysis Dashboard | Tableau <img width="240" height="50" alt="image" src="https://github.com/user-attachments/assets/588bfff9-57d1-4000-a3a0-f0d0082b6afd" />
+# 💳 UPI Transactions Analysis Dashboard | Tableau <img width="240" height="50" alt="image" src="https://github.com/user-attachments/assets/588bfff9-57d1-4000-a3a0-f0d0082b6afd" />
 
 ## 📈 Dashboard Preview
 <img width="1000" height="500" alt="Dashboard Preview" src="https://github.com/user-attachments/assets/686075c3-730e-473f-99c3-8a3e93ed86fb" />
