@@ -38,6 +38,36 @@ Age Group	Transactions
 
 - 👴 Age Group 3	👉 12,000
 
+# 📌 Key Insight
 
+Age Group 3 contributes the highest transaction volume, indicating that this segment is the most active UPI user base.
+
+2️⃣ Total Transactions by City
+
+The map visualization displays transaction volume across:
+
+📍 Delhi
+
+📍 Mumbai
+
+📍 Hyderabad
+
+📍 Bangalore
+
+This helps identify the cities driving UPI adoption.
+
+3️⃣ Transaction Analysis by Payment Method & Merchant
+Payment Methods
+📞 Phone Number
+🔳 QR Code
+🆔 UPI ID
+Merchants
+🛒 Amazon
+🛍️ Flipkart
+🚆 IRCTC
+🍔 Swiggy
+🍕 Zomato
+
+The chart compares merchant performance across all payment methods.
 
 
