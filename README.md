@@ -31,7 +31,7 @@ The primary objective of this dashboard is to:
 
 This section categorizes transaction activity into three customer segments.
 
-Age Group	Transactions
+✔ Age Group	Transactions
 - 👦 Age Group 1 👉 3,000
 
 - 👨 Age Group 2	👉 5,000
@@ -44,7 +44,7 @@ Age Group 3 contributes the highest transaction volume, indicating that this seg
 
 2️⃣ Total Transactions by City
 
-The map visualization displays transaction volume across:
+✔ The map visualization displays transaction volume across:
 
 📍 Delhi
 
@@ -57,12 +57,13 @@ The map visualization displays transaction volume across:
 This helps identify the cities driving UPI adoption.
 
 3️⃣ Transaction Analysis by Payment Method & Merchant
-Payment Methods
+
+✔ Payment Methods
 - 📞 Phone Number
 - 🔳 QR Code
 - 🆔 UPI ID
  
-Merchants
+✔ Merchants
 - 🛒 Amazon
 - 🛍️ Flipkart
 - 🚆 IRCTC
